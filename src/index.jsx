@@ -7,7 +7,6 @@ import { MainView } from "./components/main-view/main-view";
 import "./index.scss";
 import { Container } from "react-bootstrap";
 
-
 // Main component (will eventually use all the others)
 const MyMovieApplication = () => {
     return (

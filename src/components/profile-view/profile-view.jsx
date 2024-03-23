@@ -11,9 +11,7 @@ export const ProfileView = ({ user, movies, setUser, removeFav, addFav }) => {
     const [email, setEmail] = useState(user.Email);
     const [birthday, setBirthday] = useState(user.Birthday);
 
-
     const navigate = useNavigate();
-
 
     const favoriteMovieList = movies.filter(m => user.FavoriteMovies.includes(m.id));
 
