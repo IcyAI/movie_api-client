@@ -1,0 +1,17 @@
+$primary:rgb(240, 240, 32);;
+$body-bg: rgb(192, 192, 230);
+$body-color: black;
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+img {
+    width: 100%
+  }
+  
+  span {
+    margin-right: 3px;
+  }
+  
+  .spanOne {
+    font-weight: bold;
+  }
