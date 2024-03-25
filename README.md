@@ -1,7 +1,7 @@
  myMovie App
 
 ## Project description
-The client-side for an app called myMovie based on its existing server-side code (REST API and database).
+The client-side for an app called myFlix based on its existing server-side code (REST API and database).
 
 Project dependencies 
 * React
