@@ -16,11 +16,10 @@ Project dependencies
 * Parcel (v.2.10.2)
 * Process
 
-The API the project uses
-[movie_api (https://github.com/IsabelWen/movie_api/tree/main)](https://movies-flix50-8c220c6131d7.herokuapp.com/)
+The API the project uses (https://movies-flix50-8c220c6131d7.herokuapp.com/)
 
 ## Link to app 
-Hosted on Netlify: [https://mymovie-api.netlify.app/](https://myflixappp.netlify.app/login)
+Hosted on Netlify: (https://myflixappp.netlify.app/login)
 
 Views
 
