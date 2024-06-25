@@ -1,9 +1,9 @@
- myMovie App
+# myMovie App
 
 ## Project description
 The client-side for an app called myFlix based on its existing server-side code (REST API and database).
 
-Project dependencies 
+## Project dependencies 
 * React
 * ReactDOM
 * React-Router-Dom
@@ -21,7 +21,7 @@ The API the project uses (https://movies-flix50-8c220c6131d7.herokuapp.com/)
 ## Link to app 
 Hosted on Netlify: (https://myflixappp.netlify.app/login)
 
-Views
+## Views
 
 Login View
 /login
@@ -38,7 +38,7 @@ Single Movie View
 Profile View
 /profile
 
-Set up this App
+## Set up this App
 * Clone this repository
 * Navigate to the movie_api-client folder and run `npm install`
 * Run `parcel src/index.html`
